@@ -1,0 +1,6 @@
+strength = 5
+2 print("Player's initial strength:", strength)
+3 - while strength ‹ 10:
+print("Current strength is", strength)
+strength += 1
+6 print("The player has grown too strong! They've moved up to a new level of the game.")
